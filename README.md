@@ -2,7 +2,7 @@
 <h2>👨‍💻 Project Portfolio - SQL, Python, Tableau </h2>
 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Sample-Project](https://github.com/Setara2024/Sample-Project/tree/main)
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
