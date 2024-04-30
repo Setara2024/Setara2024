@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/setara-rahimi/"> Setara! <br/> 
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/setara-rahimi/"> Setara!</a> <br/> 
 <h2>👨‍💻 Project Portfolio - SQL, Python, Tableau </h2>
 
 - <b>SQL</b>
