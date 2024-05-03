@@ -3,7 +3,7 @@
 
 - <b>SQL</b>
   - [Sample-Project](https://github.com/Setara2024/Sample-Project/tree/main)
-  - [Super_Market Sales in Myanmar ](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Super_Market Sales in Myanmar ](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
