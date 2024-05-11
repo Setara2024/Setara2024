@@ -1,6 +1,6 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/setara-rahimi/"> Setara!</a> <br/> 
 <h2>👨‍💻 Project Portfolio - SQL, Python, Tableau 
-<br/> 
+
 - <b>SQL</b>
   - [Sample-Project](https://github.com/Setara2024/Sample-Project/tree/main)
   - [Super_Market Sales in Myanmar ](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
