@@ -1,5 +1,5 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/setara-rahimi/"> Setara!</a> <br/> 
-<h2>👨‍💻 Project Portfolio - SQL, Python, Tableau </h2>
+<h2>👨‍💻 Project Portfolio - SQL, Python, Tableau 
 
 - <b>SQL</b>
   - [Sample-Project](https://github.com/Setara2024/Sample-Project/tree/main)
@@ -13,7 +13,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Education</b>
 - <b>Certification</b>
-
+</h2>
 <h2>📺YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
